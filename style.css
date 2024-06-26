@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+h1 {
+    background-color: darkred;
+    text-align: center;
+    color: grey;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h3 {
+    background-color: darkred;
+    text-align: center;
+    color: grey;
+    margin-bottom: 0%;
+    margin-top: 0%; 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}
+p{
+    color: gray;
+    text-align: center;
+}
